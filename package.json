@@ -1,0 +1,15 @@
+{
+  "name": "react-babel-jest",
+  "version": "1.0.0",
+  "description": "lightweightp project for testing ES6, redux, react",
+  "main": "index.js",
+  "author": "Nikolay Karpov",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.4.4",
+    "@babel/core": "^7.4.5",
+    "@babel/node": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "@babel/preset-react": "^7.0.0"
+  }
+}
