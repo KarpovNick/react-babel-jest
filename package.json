@@ -12,9 +12,16 @@
     "@babel/preset-env": "^7.4.5",
     "@babel/preset-react": "^7.0.0",
     "babel-jest": "^24.8.0",
-    "jest": "^24.8.0"
+    "jest": "^24.8.0",
+    "react-test-renderer": "^16.8.6",
+    "regenerator-runtime": "^0.13.2"
   },
-    "scripts": {
+  "scripts": {
     "test": "jest"
+  },
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-redux": "^7.1.0",
+    "react-router-dom": "^5.0.1"
   }
 }
