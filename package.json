@@ -6,15 +6,16 @@
   "author": "Nikolay Karpov",
   "license": "MIT",
   "devDependencies": {
-    "@babel/cli": "^7.4.4",
-    "@babel/core": "^7.4.5",
-    "@babel/node": "^7.4.5",
-    "@babel/preset-env": "^7.4.5",
+    "@babel/cli": "^7.5.5",
+    "@babel/core": "^7.5.5",
+    "@babel/node": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
     "@babel/preset-react": "^7.0.0",
     "babel-jest": "^24.8.0",
     "jest": "^24.8.0",
+    "lodash": "^4.17.15",
     "react-test-renderer": "^16.8.6",
-    "regenerator-runtime": "^0.13.2"
+    "regenerator-runtime": "^0.13.3"
   },
   "scripts": {
     "test": "jest"
@@ -23,5 +24,6 @@
     "react": "^16.8.6",
     "react-redux": "^7.1.0",
     "react-router-dom": "^5.0.1"
-  }
+  },
+  "repository": "https://github.com/KarpovNick/react-babel-jest.git"
 }
